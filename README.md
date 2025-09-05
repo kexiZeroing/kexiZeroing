@@ -1,6 +1,3 @@
 ### Hi there, I'm Kexi 👋
 
-I’m currently working as a fullstack software engineer and I have a great interest in web development. You can connect with me at
-[<img alt="Kexi | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/kdang2020) &nbsp;&nbsp;
-[<img alt="Kexi | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://linkedin.com/in/dangkexi) &nbsp;&nbsp;
-[<img alt="Kexi | Weibo" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sinaweibo.svg" />](https://weibo.com/dangkexi) &nbsp;&nbsp;
+I’m a full-stack software engineer passionate about web development and modern technologies. Always learning and building — feel free to reach out!
